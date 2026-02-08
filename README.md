@@ -35,10 +35,6 @@ I am a Computer Science student at **CSPIT**. Just like Free De La Hoya, I belie
 ### 🔋 Fafnir's Energy (My Stats)
 *These cards are powered by Fafnir's Golden Glow. If they don't load, the stadium is just resetting!*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MSMendparaShubham&show_icons=true&theme=maroongold&hide_border=false&include_all_commits=true" alt="Shubham's Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSMendparaShubham&layout=compact&theme=maroongold&hide_border=false" alt="Top Languages" width="300" />
-</p>
 
 ---
 
