@@ -33,7 +33,7 @@ I am a Computer Science student at **CSPIT**. Just like Free De La Hoya, I belie
 ---
 
 ### 🔋 Fafnir's Energy (My Stats)
-*These cards are powered by Fafnir's Golden Glow. If they don't load, the stadium is just resetting!*
+*These cards are powered by Fafnir's Golden Glow. If they don't load, the stadium is just resetting!*..
 
 
 ---
