@@ -25,7 +25,7 @@ I am a Computer Science student at **CSPIT**. Just like Free De La Hoya, I belie
 ### 🐲 Bey Quest: The Battle Log
 *Treating every semester like a World League Championship.*
 
-- [x] **Inauguration:** Joined the elite ranks of **CSPIT, CHARUSAT**.
+- [x] **Inauguration:** Joined the elite ranks of **CSPIT, CHARUSAT**..
 - [ ] **The Spin Master:** Master Data Structures and Algorithms (Ongoing).
 - [ ] **Golden Stadium:** Develop a high-performance Web Portfolio.
 - [ ] **Hand-Spin Launch:** Master Python for automation and AI.
