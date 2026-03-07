@@ -43,7 +43,7 @@ I am a Computer Science student at **CSPIT**. Just like Free De La Hoya, I belie
 | :--- | :--- |
 | **Launchers** | C, C++, Python |
 | **Absorbing Power** | DSA, Problem Solving |
-| **Stadium Control** | Git, GitHub, VS Code.|
+| **Stadium Control** | Git, GitHub, VS Code|
 
 ---
 
