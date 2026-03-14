@@ -18,7 +18,7 @@ I am a Computer Science student at **CSPIT**. Just like Free De La Hoya, I belie
 
 * **🏆 Goal:** To become a Top-Tier Software Engineer.
 * **🌀 Special Move:** *Logic Drain* — Learning and adapting from every bug I encounter.
-* **🌲 Current Location:** The Forest Cabin (Deep into Coding & DSA)..
+* **🌲 Current Location:** The Forest Cabin (Deep into Coding & DSA).
 
 ---
 
