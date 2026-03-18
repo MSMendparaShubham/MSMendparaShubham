@@ -5,7 +5,7 @@
 
 <img src="https://media.tenor.com/22123038/tenor.gif" width="500" alt="Free De La Hoya Fafnir" style="border-radius: 15px; border: 3px solid #FFD700;"/>
 
-> *"Strength doesn't come from a launcher. It comes from the heart of the spin..."*
+> *"Strength doesn't come from a launcher. It comes from the heart of the spin.."*
 
 ---
 
