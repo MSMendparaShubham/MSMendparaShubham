@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡  MENDPARA SHUBHAMM⚡
+# ⚡  MENDPARA SHUBHAM⚡
 
 
 <img src="https://media.tenor.com/22123038/tenor.gif" width="500" alt="Free De La Hoya Fafnir" style="border-radius: 15px; border: 3px solid #FFD700;"/>
