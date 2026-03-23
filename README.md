@@ -13,7 +13,7 @@
 
 </div>
 
-### 🛡️ Blader Profile
+### 🛡️ Blader Profile..
 I am a Computer Science student at **CSPIT**. Just like Free De La Hoya, I believe in mastering my craft in silence. While others rush, I focus on **absorbing knowledge** and perfecting my logic..
 
 * **🏆 Goal:** To become a Top-Tier Software Engineer.
